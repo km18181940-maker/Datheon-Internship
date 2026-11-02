@@ -1,0 +1,7 @@
+Monthly revenue (USD)
+Jan: 12400
+Feb: 13850
+Mar: 15200
+Apr: 14100
+May: 16750
+Jun: 18300

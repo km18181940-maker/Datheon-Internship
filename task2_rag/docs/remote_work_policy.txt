@@ -1,0 +1,17 @@
+Northwind Remote Work Policy (v2.1)
+
+1. Eligibility
+Employees who have completed their 90-day probation may apply for remote work.
+Interns are not eligible for remote work during their first 30 days.
+
+2. Remote days
+Eligible employees may work remotely up to 3 days per week. Fridays are
+in-office days for all teams unless the department head approves an exception.
+
+3. Equipment
+The company provides one laptop and one monitor. Remote employees receive a
+one-time home-office stipend of 500 USD, payable after their first month.
+
+4. Security
+All remote work must use the company VPN. Public Wi-Fi is not permitted
+without the VPN. Lost devices must be reported to IT within 2 hours.

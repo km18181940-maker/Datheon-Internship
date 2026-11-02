@@ -1,0 +1,12 @@
+Northwind Supplies Pvt Ltd
+INVOICE No: NW-2026-0412
+Issued: 12 October 2026      Payment due: 11 November 2026
+Billed to: Bluefin Logistics
+
+3 x Pallet wrap rolls @ 18.50 .......... 55.50
+10 x Packing tape (48mm) @ 2.20 ......... 22.00
+1 x Delivery charge ..................... 15.00
+
+Subtotal: 92.50
+Sales tax (8%): 7.40
+TOTAL DUE: 99.90 USD

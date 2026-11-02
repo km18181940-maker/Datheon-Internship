@@ -1,0 +1,11 @@
+Ali Raza  |  ali.raza@example.com  |  +92 300 1234567  |  Karachi, Pakistan
+
+SKILLS: Python, FastAPI, PostgreSQL, Docker, LangChain
+
+EXPERIENCE
+Backend Developer - Techwave Solutions (Mar 2023 - Present)
+Built REST APIs serving 50k daily users.
+Junior Developer - CodeNest (Jun 2021 - Feb 2023)
+
+EDUCATION
+BS Software Engineering, Mohammad Ali Jinnah University, 2021
